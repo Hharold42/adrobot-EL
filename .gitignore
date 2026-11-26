@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+
+# Node
+node_modules/
+dist/
+
+# IDE / ОС
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
+
+# Локальные файлы задания
+task.md
+тз.txt
